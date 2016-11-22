@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Coding nightmare</title>
+    <description></description>
+    <link>jordins.github.com# add site url http://example.com/</link>
+    <atom:link href="jordins.github.com#%20add%20site%20url%20http://example.com//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Developing angular2 lib for ionic</title>
+        <description>Problems found while developing an angular2 lib for ionic2</description>
+        <pubDate>Sat, 19 Nov 2016 00:00:00 +0100</pubDate>
+        <link>jordins.github.com#%20add%20site%20url%20http://example.com//posts/developing-angular2-lib</link>
+        <guid isPermaLink="true">jordins.github.com#%20add%20site%20url%20http://example.com//posts/developing-angular2-lib</guid>
+      </item>
+    
+      <item>
+        <title>Hi there!</title>
+        <description>What is this blog about?</description>
+        <pubDate>Tue, 15 Nov 2016 00:00:00 +0100</pubDate>
+        <link>jordins.github.com#%20add%20site%20url%20http://example.com//posts/starting-blog</link>
+        <guid isPermaLink="true">jordins.github.com#%20add%20site%20url%20http://example.com//posts/starting-blog</guid>
+      </item>
+    
+  </channel>
+</rss>
